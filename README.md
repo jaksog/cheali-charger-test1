@@ -1,3 +1,12 @@
+PLEASE NOT USE.
+---------------
+This is obsolete version.
+-------------------------
+Use the original(NEW) version from Pawel.
+------------------------------------
+https://github.com/stawel/cheali-charger
+----------------------------------------
+
 FOR TESTING.
 
 
